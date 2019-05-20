@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.row-header{padding:50px 50px;border-top:10px solid #999;border-left:10px solid #999;border-right:10px solid #999;}
+.container{width:50%;}
+.project-title{font-family:arial;font-weight:bold;margin-bottom:0px;}
+.project-subtitle{font-family:arial;color:#666;font-weight:bold;margin-bottom:0px;}
+.magic-time{border-left:10px solid #ccc;border-right:10px solid #ccc;}
+
+.task-form{padding-left:20px;}
+.task-form input{width:80%;}
+.task-form button{background-color:#666;}
+
+.column-header{font-size:1.25em;font-family:times;font-weight:bold;}
+
+table.main-table th,table.main-table td{padding:5px 10px;}
